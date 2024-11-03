@@ -2,6 +2,8 @@
 
 Single-page application that demonstrates infinite scroll functionality with user cards using the RandomUser API.
 
+## Project Link: https://infinitescrollusers.netlify.app/
+
 ## 🚀 Features
 
 - Infinite scroll implementation
@@ -66,5 +68,3 @@ npm run test
 # Run tests with coverage
 npm run test:coverage
 ```
-
-Project Link: https://infinitescrollusers.netlify.app/
