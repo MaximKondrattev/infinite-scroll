@@ -36,6 +36,4 @@ describe("UserCard", () => {
 
     expect(wrapper.find(".user-card__name").text()).toBe("John Doe");
   });
-
-  // Добавляем больше тестов...
 });
